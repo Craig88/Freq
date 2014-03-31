@@ -1,0 +1,63 @@
+3750 per hour
+
+= 62.5 per minute
+
+1 minute is (60000 milliseconds)
+
+15000 per hour
+
+= 250 per minute
+
+---
+
+death - 6428.57 per hour
+= 107.142833333 per minute
+560 mili
+
+---
+
+wikipedia - 5373.13	per hour
+89.552166667 per minute
+670 mili
+
+---
+
+
+bieber - 761.10 per hour
+
+12.685 per minute
+4730 mili
+
+
+
+http://notebooks.jsvine.com/reverse-engineering-xkcd-frequency/
+
+http://xkcd.com/1331/
+http://www.oica.net/category/production-statistics/ - for UK cars
+
+
+///
+
+china - 1904.76 per hour
+
+
+
+japan - 897.76 per hour
+
+
+
+germany - 620.69 per hour
+us - 517.99	per hour
+uk - 172.347260274 per hour
+
+///
+
+someone breaks an iphone screen
+someone in the us buys a house
+someone registers a domain
+someone lies about their age to sign up for facebook
+the star PSR J1748-2446ad rotates 1000 times 
+
+
+
+

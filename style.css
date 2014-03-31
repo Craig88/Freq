@@ -1,0 +1,46 @@
+body {
+  font-family: 'Share Tech', sans-serif;
+  background-image: url("img/mesh.png");
+}
+
+div {
+  text-align: center;
+  opacity: 1;  
+}
+
+div.box {
+  background-color: gray;
+  color: white;
+  height: 150px;
+  width: 100%;
+  margin-top: 15px;
+
+  
+}
+
+p.payload {
+
+    position: relative;
+    top: 50%; 
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    opacity: 0.2;
+  
+
+}
+
+div.box.flash {
+  background-color: gray;
+  color: hotpink;
+  height: 150px;
+  opacity: 1;
+
+
+  
+}
+
+div.box.flash p.payload {
+  opacity: 1.0;
+}
+
+
