@@ -3,7 +3,7 @@ Freq
 
 Frequency animation Demo based on an XKCD comic <br/>
 
-[Live Demo](cra.igsteele.com/freq) 
+[Live Demo](http://cra.igsteele.com/freq) 
 
 ## Authors 
 [Craig Steele](https://github.com/Craig88) <br/>
