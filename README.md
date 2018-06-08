@@ -8,7 +8,7 @@ Frequency animation Demo based on an XKCD comic <br/>
 ## Authors 
 [Craig Steele](https://github.com/Craig88) <br/>
 
-##Resources
+## Resources
 
 The original [XKCD comic](http://xkcd.com/1331/) <br/>
 Most statistics taken from [this article](http://notebooks.jsvine.com/reverse-engineering-xkcd-frequency/) <br/>
